@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296524454427",
+    "project_id": "trestfirflutterrr",
+    "storage_bucket": "trestfirflutterrr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296524454427:android:769d8326a407320eb5b6be",
+        "android_client_info": {
+          "package_name": "com.example.testflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUaeaferZS1ulWQanODzAljyov4ao0__8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
